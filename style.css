@@ -31,6 +31,6 @@ div {
   width: 25%;
 }
 
-#featured-property > p {
+#featured-property < p {
   width: 800px;
 }
