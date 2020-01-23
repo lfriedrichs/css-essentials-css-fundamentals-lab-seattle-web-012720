@@ -28,3 +28,7 @@ a {
 div {
   float: left;
 }
+
+#featured-property > p {
+  width: 800px;
+}
