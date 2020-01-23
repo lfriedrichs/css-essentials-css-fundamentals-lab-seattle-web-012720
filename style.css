@@ -15,7 +15,8 @@ IMG {
 }
 
 figcaption {
-  font-size: 
+  font-size: 10px;
+  text-align: center;
 }
 
 a {
